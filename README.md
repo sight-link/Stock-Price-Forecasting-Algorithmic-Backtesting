@@ -1,4 +1,4 @@
-# SPY ETF Stock Price Forecasting & Algorithmic Trading Backtesting
+# SPY ETF Stock Price Forecasting & Algorithmic Backtesting
 ## Project Overview
 An end-to-end quantitative finance pipeline built with Python, predicting next-day closing prices of SPY (S&P 500 ETF) via 3 machine learning models:
 1. Logistic Regression (binary classification for bullish/bearish signals)
@@ -25,10 +25,6 @@ https://www.kaggle.com/code/jenniferxfl/stock-price-forecasting-algorithmic-back
 ![Static Preview of stock-price-forecasting](./output/SPY_ETF_Price_Forecast.png)
 
 
-# Stock Price Forecasting & Algorithmic Backtesting
-
-A modular Python framework for forecasting stock prices and evaluating trading strategies via algorithmic backtesting. Originally developed on [Kaggle](https://www.kaggle.com/code/jenniferxfl/stock-price-forecasting-algorithmic-backtesting), ported to a production-ready repository structure.
-
 ## Requirements
 
 See `requirements.txt`. Core dependencies:
@@ -45,4 +41,4 @@ This project is for **educational and research purposes only**. It does not cons
 
 ## License
 
-MIT License — feel free to fork, modify, and use in your own projects.
+MIT License
