@@ -25,5 +25,6 @@ After model evaluation with RMSE and R² metrics, we build a long-only trading s
 pip install -r requirements.txt
 python stock_prediction.py
 
-## Project Demo
-Kaggle Interactive Notebook: https://www.kaggle.com/code/jenniferxfl/stock-price-forecasting-algorithmic-backtesting
+**Project Demo**
+Kaggle Interactive Notebook
+https://www.kaggle.com/code/jenniferxfl/stock-price-forecasting-algorithmic-backtesting
