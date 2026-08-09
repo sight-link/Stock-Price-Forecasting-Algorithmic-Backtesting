@@ -17,7 +17,7 @@ After model evaluation with RMSE and R² metrics, we build a long-only trading s
 - Pure manual backtesting (removed backtrader to eliminate environment compatibility errors)
 - No Chinese font dependency, compatible with Windows / macOS / Linux / Kaggle
 
-## Environment Setup
+### Environment Setup
 ```bash
 pip install -r requirements.txt
 python stock_prediction.py
