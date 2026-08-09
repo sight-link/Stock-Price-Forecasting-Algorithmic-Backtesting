@@ -7,7 +7,7 @@ An end-to-end quantitative finance pipeline built with Python, predicting next-d
 
 After model evaluation with RMSE and R² metrics, we build a long-only trading strategy based on SVR predicted returns, and implement lightweight manual backtesting to calculate core risk-return indicators: total cumulative return, annualized Sharpe ratio, maximum drawdown.
 
-**Key Features
+**Key Features**
 - Historical US ETF data download via AkShare
 - Technical feature engineering: 10-day & 50-day moving averages
 - Strict chronological train/test split (85% train / 15% test, no shuffle to avoid data leakage)
