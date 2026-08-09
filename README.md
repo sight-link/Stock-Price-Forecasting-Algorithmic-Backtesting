@@ -18,12 +18,12 @@ After model evaluation with RMSE and R² metrics, we build a long-only trading s
 - No Chinese font dependency, compatible with Windows / macOS / Linux / Kaggle
 
 **SPY ETF Price Forecast**
-![Static Preview of stock-price-forecasting](./output/SPY ETF Price Forecast.png)
+![Static Preview of stock-price-forecasting](./output/SPY_ETF_Price_Forecast.png)
 
 **Environment Setup**
 ```bash
 pip install -r requirements.txt
 python stock_prediction.py
 
-
-
+## Project Demo
+Kaggle Interactive Notebook: https://www.kaggle.com/code/jenniferxfl/stock-price-forecasting-algorithmic-backtesting
